@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://static.wixstatic.com/media/68ad1b_96c952149d584505bdfc30a3cbf36795~mv2.jpg" alt="SudoSpark Logo" width="80" height="80" style="border-radius: 16px;">
-</p>
-
 <h1 align="center">⚡ SudoSpark — Light Up Your Brain</h1>
 
 <p align="center">
@@ -105,42 +101,6 @@ Built as a single-page application with zero dependencies, it runs entirely in y
 - **Google Fonts** — Fredoka + Nunito typeface pairing
 - **Algorithm** — Backtracking-based Sudoku generator with uniqueness validation
 
----
-
-## 🚀 Getting Started
-
-### Play Online
-
-👉 **[https://prajitdatta.github.io/](https://prajitdatta.github.io/)**
-
-### Run Locally
-
-```bash
-# Clone the repository
-git clone https://github.com/prajitdatta/sudospark.git
-
-# Navigate to the project
-cd sudospark
-
-# Open in browser (no build step needed!)
-open index.html
-# or
-python -m http.server 8000
-# then visit http://localhost:8000
-```
-
----
-
-## 📁 Project Structure
-
-```
-sudospark/
-├── index.html          # Complete game (single-file SPA)
-├── README.md           # This file
-└── LICENSE             # MIT License
-```
-
-The entire game is contained in a single `index.html` file — this is intentional. Zero dependencies, zero build tools, instant deployment. Just drop it anywhere and it works.
 
 ---
 
